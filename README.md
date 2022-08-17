@@ -1,6 +1,8 @@
 # AutoCount-Green
 초록여행 예약 현황 변경 사항 Slack 알림 봇
 
+![JaeYeongSong](https://img.shields.io/badge/By-JaeYeongSong-brightgreen)
+
 ## Tech
 * Python 3.8.9
 * BeautifulSoup
